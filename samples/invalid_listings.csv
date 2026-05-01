@@ -1,0 +1,13 @@
+product_name,product_type,sku,price,size,description
+,tee,WP-TEE-ERR-001,24.99,M,Missing product name — required field is blank.
+WearPawsitive Graphic Tee,tee,,19.99,L,Missing SKU — required field is blank.
+WearPawsitive Bandana,,WP-BAN-ERR-001,12.99,L,Missing product type — required field is blank.
+WearPawsitive Socks,socks,WP-SOC-ERR-001,abc,One Size,Price is not numeric — contains letters.
+WearPawsitive Hoodie,hoodie,WP-HOD-ERR-001,-10.00,M,Price is negative — must be a positive number.
+WearPawsitive Bandana,bandana,WP-BAN-ERR-002,12.99,S,Invalid size for bandana — only L and XL are allowed.
+WearPawsitive Socks,socks,WP-SOC-ERR-002,9.99,M,Invalid size for socks — only One Size is allowed.
+WearPawsitive Tee,tee,WP-TEE-ERR-002,24.99,XXXL,Invalid size for tee — XXXL is not in the allowed size list.
+WearPawsitive Hoodie,hoodie,WP-HOD-ERR-002,54.99,,Missing size — required field is blank.
+WearPawsitive Classic Tee,tee,WP-TEE-DUP-001,24.99,S,First listing with duplicate SKU.
+WearPawsitive Graphic Tee,tee,WP-TEE-DUP-001,27.99,M,Second listing with duplicate SKU — same SKU as row above.
+WearPawsitive Hoodie,hoodie,WP-HOD-ERR-003,54.99,XL,

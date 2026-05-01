@@ -1,0 +1,7 @@
+product_name,product_type,sku,price,size,description
+WearPawsitive Tee,tee,WP-TEE-CAU-001,0.99,S,Price is valid but unusually low — may be a data entry error.
+WearPawsitive Hoodie,hoodie,WP-HOD-CAU-001,999.99,L,Price is valid but unusually high — may warrant a review.
+wearpawsitive bandana,bandana,WP-BAN-CAU-001,12.99,XL,Product name is all lowercase — may affect storefront display.
+WearPawsitive Socks,socks,WP-SOC-CAU-001,9.99,One Size,Size value uses non-standard casing — expected exact value is One Size.
+WearPawsitive Classic Tee,tee,WP-TEE-CAU-002,24.99,M,This description is intentionally very long to simulate a listing that exceeds a reasonable character limit for most ecommerce storefronts. Sellers should aim to keep descriptions concise clear and within platform-specific limits to avoid truncation or display issues at upload time.
+WearPawsitive Graphic Tee,tee,WP-TEE-CAU-003,24.99,M,Description contains special chars: <sale> & "best" seller — may cause rendering issues.
