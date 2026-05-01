@@ -105,4 +105,4 @@ Separating the deterministic validation work into a standalone Python script mad
 
 ## Demo Video
 
-Video walkthrough: ADD VIDEO LINK HERE
+Video walkthrough: https://youtu.be/6qTONZCCLJc
